@@ -1,0 +1,1118 @@
+,country_code,country_name,area,population,prefecture/state,updated_at
+0,US,United States,New York,18713220,New York,2021-10-02
+1,US,United States,Los Angeles,12750807,California,2021-10-02
+2,US,United States,Chicago,8604203,Illinois,2021-10-02
+3,JP,Japan,Tokyo,8336599, Tokyo,2021-10-02
+4,US,United States,Miami,6445545,Florida,2021-10-02
+5,US,United States,Dallas,5743938,Texas,2021-10-02
+6,US,United States,Philadelphia,5649300,Pennsylvania,2021-10-02
+7,US,United States,Houston,5464251,Texas,2021-10-02
+8,US,United States,Atlanta,5449398,Georgia,2021-10-02
+9,US,United States,Washington,5379184,District of Columbia,2021-10-02
+10,US,United States,Boston,4688346,Massachusetts,2021-10-02
+11,US,United States,Phoenix,4219697,Arizona,2021-10-02
+12,US,United States,Seattle,3789215,Washington,2021-10-02
+13,US,United States,San Francisco,3592294,California,2021-10-02
+14,JP,Japan,Yokohama,3574443, Kanagawa,2021-10-02
+15,US,United States,Detroit,3506126,Michigan,2021-10-02
+16,US,United States,San Diego,3220118,California,2021-10-02
+17,US,United States,Tampa,2908063,Florida,2021-10-02
+18,US,United States,Denver,2876625,Colorado,2021-10-02
+19,JP,Japan,Nagoya,2191279, Aichi,2021-10-02
+20,US,United States,Baltimore,2106068,Maryland,2021-10-02
+21,US,United States,Las Vegas,2104198,Nevada,2021-10-02
+22,US,United States,Portland,2074775,Oregon,2021-10-02
+23,US,United States,San Antonio,2049293,Texas,2021-10-02
+24,US,United States,St. Louis,2024074,Missouri,2021-10-02
+25,US,United States,Sacramento,1898019,California,2021-10-02
+26,JP,Japan,Sapporo,1883027, Hokkaido,2021-10-02
+27,US,United States,Orlando,1822394,Florida,2021-10-02
+28,US,United States,San Jose,1798103,California,2021-10-02
+29,US,United States,Cleveland,1710093,Ohio,2021-10-02
+30,US,United States,Pittsburgh,1703266,Pennsylvania,2021-10-02
+31,US,United States,Austin,1687311,Texas,2021-10-02
+32,US,United States,Cincinnati,1662691,Ohio,2021-10-02
+33,US,United States,Kansas City,1636715,Missouri,2021-10-02
+34,US,United States,Manhattan,1628706,New York,2021-10-02
+35,US,United States,Indianapolis,1588961,Indiana,2021-10-02
+36,US,United States,Columbus,1562009,Ohio,2021-10-02
+37,JP,Japan,Kobe,1528478, Hyogo,2021-10-02
+38,US,United States,Charlotte,1512923,North Carolina,2021-10-02
+39,US,United States,Virginia Beach,1478868,Virginia,2021-10-02
+40,MY,Malaysia,Kota Bharu,1459994,Donggongon,2021-10-02
+41,JP,Japan,Kyoto,1459640, Kyoto,2021-10-02
+42,MY,Malaysia,Kuala Lumpur,1453975,Putatan,2021-10-02
+43,US,United States,Bronx,1418207,New York,2021-10-02
+44,JP,Japan,Fukuoka,1392289, Fukuoka,2021-10-02
+45,US,United States,Milwaukee,1365787,Wisconsin,2021-10-02
+46,JP,Japan,Kawasaki,1306785, Kanagawa,2021-10-02
+47,US,United States,Providence,1203230,Rhode Island,2021-10-02
+48,JP,Japan,Saitama,1193350, Saitama,2021-10-02
+49,US,United States,Jacksonville,1181496,Florida,2021-10-02
+50,JP,Japan,Hiroshima,1143841, Hiroshima,2021-10-02
+51,US,United States,Salt Lake City,1098526,Utah,2021-10-02
+52,US,United States,Nashville,1081903,Tennessee,2021-10-02
+53,JP,Japan,Yono,1077730, Saitama,2021-10-02
+54,US,United States,Richmond,1075798,Virginia,2021-10-02
+55,US,United States,Memphis,1066967,Tennessee,2021-10-02
+56,JP,Japan,Sendai,1063103, Miyagi,2021-10-02
+57,US,United States,Raleigh,1038738,North Carolina,2021-10-02
+58,US,United States,Louisville,1005654,Kentucky,2021-10-02
+59,JP,Japan,Kitakyushu,997536, Fukuoka,2021-10-02
+60,US,United States,Oklahoma City,972943,Oklahoma,2021-10-02
+61,US,United States,Bridgeport,924449,Connecticut,2021-10-02
+62,JP,Japan,Chiba,919729, Chiba,2021-10-02
+63,US,United States,Buffalo,914341,New York,2021-10-02
+64,US,United States,Fort Worth,909585,Texas,2021-10-02
+65,US,United States,Hartford,905152,Connecticut,2021-10-02
+66,US,United States,Tucson,888486,Arizona,2021-10-02
+67,MY,Malaysia,Klang,879867,Keningau,2021-10-02
+68,US,United States,Omaha,847819,Nebraska,2021-10-02
+69,US,United States,El Paso,843386,Texas,2021-10-02
+70,MY,Malaysia,Kampung Baru Subang,833571,Lahad Datu,2021-10-02
+71,US,United States,Honolulu,820987,Hawaii,2021-10-02
+72,US,United States,McAllen,804114,Texas,2021-10-02
+73,MY,Malaysia,Johor Bahru,802489,Tawau,2021-10-02
+74,JP,Japan,Sakai,782339, Fukui,2021-10-02
+75,JP,Japan,Sakai,782339, Osaka,2021-10-02
+76,US,United States,Albuquerque,761195,New Mexico,2021-10-02
+77,US,United States,Birmingham,739573,Alabama,2021-10-02
+78,US,United States,Sarasota,722243,Florida,2021-10-02
+79,US,United States,Dayton,718353,Ohio,2021-10-02
+80,MY,Malaysia,Subang Jaya,708296,Kudat,2021-10-02
+81,US,United States,Rochester,703952,New York,2021-10-02
+82,US,United States,Fresno,703498,California,2021-10-02
+83,JP,Japan,Shizuoka,701561, Shizuoka,2021-10-02
+84,US,United States,Allentown,683794,Pennsylvania,2021-10-02
+85,JP,Japan,Kumamoto,680423, Kumamoto,2021-10-02
+86,MY,Malaysia,Ipoh,673318,Sandakan,2021-10-02
+87,US,United States,Tulsa,671033,Oklahoma,2021-10-02
+88,US,United States,Concord,652308,California,2021-10-02
+89,US,United States,Colorado Springs,642413,Colorado,2021-10-02
+90,JP,Japan,Okayama,639652, Okayama,2021-10-02
+91,US,United States,Charleston,628377,South Carolina,2021-10-02
+92,US,United States,Springfield,623401,Massachusetts,2021-10-02
+93,US,United States,Grand Rapids,609314,Michigan,2021-10-02
+94,US,United States,Mission Viejo,590249,California,2021-10-02
+95,US,United States,Albany,586383,New York,2021-10-02
+96,US,United States,Knoxville,586048,Tennessee,2021-10-02
+97,JP,Japan,Hachioji,579399, Tokyo,2021-10-02
+98,US,United States,Bakersfield,579295,California,2021-10-02
+99,US,United States,Ogden,578523,Utah,2021-10-02
+100,MY,Malaysia,Kuching,570407,Juru,2021-10-02
+101,US,United States,Baton Rouge,570308,Louisiana,2021-10-02
+102,US,United States,Akron,565208,Ohio,2021-10-02
+103,US,United States,New Haven,564830,Connecticut,2021-10-02
+104,US,United States,Columbia,560041,South Carolina,2021-10-02
+105,JP,Japan,Kagoshima,555352, Kagoshima,2021-10-02
+106,MY,Malaysia,Petaling Jaya,520698,Tanjung Bungah,2021-10-02
+107,US,United States,Mesa,518012,Arizona,2021-10-02
+108,US,United States,Palm Bay,507002,Florida,2021-10-02
+109,JP,Japan,Niigata,505272, Niigata,2021-10-02
+110,US,United States,Provo,500617,Utah,2021-10-02
+111,US,United States,Worcester,498328,Massachusetts,2021-10-02
+112,US,United States,Murrieta,496046,California,2021-10-02
+113,US,United States,Greenville,484465,South Carolina,2021-10-02
+114,US,United States,Wichita,482249,Kansas,2021-10-02
+115,US,United States,Toledo,482111,Ohio,2021-10-02
+116,MY,Malaysia,Shah Alam,481654,Kepala Batas,2021-10-02
+117,JP,Japan,Himeji,481493, Hyogo,2021-10-02
+118,US,United States,Staten Island,476143,New York,2021-10-02
+119,US,United States,Des Moines,473957,Iowa,2021-10-02
+120,JP,Japan,Matsudo,470277, Chiba,2021-10-02
+121,JP,Japan,Nishinomiya-hama,468925, Hyogo,2021-10-02
+122,JP,Japan,Kawaguchi,468565, Saitama,2021-10-02
+123,US,United States,Long Beach,462628,California,2021-10-02
+124,US,United States,Port St. Lucie,461152,Florida,2021-10-02
+125,JP,Japan,Kanazawa,458937, Ishikawa,2021-10-02
+126,MY,Malaysia,Kota Kinabalu,457326,Tanjung Tokong,2021-10-02
+127,US,United States,Denton,457177,Texas,2021-10-02
+128,JP,Japan,Utsunomiya,449865, Tochigi,2021-10-02
+129,JP,Japan,Oita,448907, oita,2021-10-02
+130,US,United States,Madison,447245,Wisconsin,2021-10-02
+131,US,United States,Reno,445020,Nevada,2021-10-02
+132,JP,Japan,Matsuyama,443322, Ehime,2021-10-02
+133,US,United States,Harrisburg,442289,Pennsylvania,2021-10-02
+134,JP,Japan,Amagasaki,442173, Hyogo,2021-10-02
+135,US,United States,Little Rock,439815,Arkansas,2021-10-02
+136,JP,Japan,Kurashiki,437581, Okayama,2021-10-02
+137,US,United States,Oakland,433031,California,2021-10-02
+138,JP,Japan,Yokosuka,428992, Kanagawa,2021-10-02
+139,US,United States,Durham,424700,North Carolina,2021-10-02
+140,US,United States,Winston-Salem,422269,North Carolina,2021-10-02
+141,US,United States,Bonita Springs,421291,Florida,2021-10-02
+142,US,United States,Indio,417059,California,2021-10-02
+143,US,United States,Palm Coast,417007,Florida,2021-10-02
+144,US,United States,Chattanooga,415501,Tennessee,2021-10-02
+145,US,United States,Spokane,412275,Washington,2021-10-02
+146,JP,Japan,Nagasaki,410204, Nagasaki,2021-10-02
+147,JP,Japan,Hirakata,406331, Osaka,2021-10-02
+148,US,United States,Syracuse,404223,New York,2021-10-02
+149,US,United States,Lancaster,401524,Pennsylvania,2021-10-02
+150,JP,Japan,Machida,399969, Tokyo,2021-10-02
+151,US,United States,Arlington,398854,Texas,2021-10-02
+152,JP,Japan,Gifu-shi,397714, Gifu,2021-10-02
+153,US,United States,Stockton,397264,California,2021-10-02
+154,US,United States,Poughkeepsie,394760,New York,2021-10-02
+155,JP,Japan,Fujisawa,394624, Kanagawa,2021-10-02
+156,MY,Malaysia,Sandakan,392288,Permatang Kucing,2021-10-02
+157,US,United States,Augusta,390809,Georgia,2021-10-02
+158,US,United States,Boise,389280,Idaho,2021-10-02
+159,US,United States,Oxnard,387647,California,2021-10-02
+160,JP,Japan,Toyonaka,384459, Osaka,2021-10-02
+161,US,United States,Scranton,384250,Pennsylvania,2021-10-02
+162,JP,Japan,Fukuyama,383298, Hiroshima,2021-10-02
+163,US,United States,Modesto,383134,California,2021-10-02
+164,US,United States,Kissimmee,382720,Florida,2021-10-02
+165,US,United States,Aurora,379289,Colorado,2021-10-02
+166,US,United States,Youngstown,378732,Ohio,2021-10-02
+167,JP,Japan,Toyohashi,378374, Aichi,2021-10-02
+168,JP,Japan,Minato,375339, Tokyo,2021-10-02
+169,MY,Malaysia,Seremban,372917,Nibong Tebal,2021-10-02
+170,JP,Japan,Nara-shi,367353, Nara,2021-10-02
+171,MY,Malaysia,Kuantan,366229,Kota Kinabalu,2021-10-02
+172,JP,Japan,Toyota,362383, Aichi,2021-10-02
+173,JP,Japan,Nagano,360176, Nagano,2021-10-02
+174,JP,Japan,Iwaki,357309, Fukushima,2021-10-02
+175,JP,Japan,Asahikawa,356612, Hokkaido,2021-10-02
+176,JP,Japan,Takatsuki,354468, Osaka,2021-10-02
+177,JP,Japan,Okazaki,352361, Aichi,2021-10-02
+178,JP,Japan,Suita,351630, Osaka,2021-10-02
+179,US,United States,Fayetteville,351246,Arkansas,2021-10-02
+180,US,United States,Anaheim,350365,California,2021-10-02
+181,US,United States,Pensacola,346921,Florida,2021-10-02
+182,US,United States,Victorville,346789,California,2021-10-02
+183,US,United States,Lancaster,343304,California,2021-10-02
+184,US,United States,Greensboro,343090,North Carolina,2021-10-02
+185,US,United States,Corpus Christi,342464,Texas,2021-10-02
+186,JP,Japan,Koriyama,340560, Fukushima,2021-10-02
+187,JP,Japan,Kashiwa,340221, Chiba,2021-10-02
+188,JP,Japan,Tokorozawa,339435, Saitama,2021-10-02
+189,JP,Japan,Kawagoe,337931, Saitama,2021-10-02
+190,JP,Japan,Kochi,335570, Kochi,2021-10-02
+191,JP,Japan,Takamatsu,334223, Kagawa,2021-10-02
+192,US,United States,Fort Wayne,334122,Indiana,2021-10-02
+193,US,United States,Santa Ana,332318,California,2021-10-02
+194,US,United States,Flint,332190,Michigan,2021-10-02
+195,US,United States,Fayetteville,327435,North Carolina,2021-10-02
+196,JP,Japan,Toyama,325532, Toyama,2021-10-02
+197,US,United States,Jackson,325350,Mississippi,2021-10-02
+198,US,United States,Santa Rosa,324634,California,2021-10-02
+199,US,United States,Lansing,324286,Michigan,2021-10-02
+200,US,United States,San Juan,323279,Puerto Rico,2021-10-02
+201,US,United States,Lexington,323152,Kentucky,2021-10-02
+202,US,United States,Ann Arbor,322267,Michigan,2021-10-02
+203,US,United States,Henderson,320189,Nevada,2021-10-02
+204,JP,Japan,Akita,320069, Akita,2021-10-02
+205,US,United States,Huntsville,319249,Alabama,2021-10-02
+206,JP,Japan,Koshigaya,317437, Saitama,2021-10-02
+207,US,United States,Mobile,315502,Alabama,2021-10-02
+208,US,United States,Fort Collins,312666,Colorado,2021-10-02
+209,US,United States,Asheville,312507,North Carolina,2021-10-02
+210,US,United States,Santa Clarita,312446,California,2021-10-02
+211,JP,Japan,Miyazaki,311203, Miyazaki,2021-10-02
+212,US,United States,St. Paul,308096,Minnesota,2021-10-02
+213,MY,Malaysia,Tawau,306462,Papar,2021-10-02
+214,US,United States,Antioch,302419,California,2021-10-02
+215,US,United States,Lakeland,302284,Florida,2021-10-02
+216,JP,Japan,Naha,300795, Okinawa,2021-10-02
+217,MY,Malaysia,George Town,300000,Bintulu,2021-10-02
+218,JP,Japan,Kasugai,298589, Aichi,2021-10-02
+219,JP,Japan,Aomori,298394, Aomori,2021-10-02
+220,JP,Japan,Morioka,295172, Iwate,2021-10-02
+221,US,United States,Trenton,290716,New Jersey,2021-10-02
+222,US,United States,Lincoln,289490,Nebraska,2021-10-02
+223,US,United States,Springfield,288090,Missouri,2021-10-02
+224,US,United States,Anchorage,288000,Alaska,2021-10-02
+225,US,United States,Plano,287677,Texas,2021-10-02
+226,US,United States,Irvine,287401,California,2021-10-02
+227,US,United States,Davenport,285362,Iowa,2021-10-02
+228,MY,Malaysia,Kuala Terengganu,285065,Ranau,2021-10-02
+229,US,United States,Rockford,282762,Illinois,2021-10-02
+230,US,United States,Newark,282011,New Jersey,2021-10-02
+231,US,United States,South Bend,280498,Indiana,2021-10-02
+232,US,United States,Shreveport,280062,Louisiana,2021-10-02
+233,US,United States,Round Lake Beach,279381,Illinois,2021-10-02
+234,US,United States,Savannah,276295,Georgia,2021-10-02
+235,US,United States,Myrtle Beach,275579,South Carolina,2021-10-02
+236,US,United States,Chula Vista,274492,California,2021-10-02
+237,US,United States,Eugene,273439,Oregon,2021-10-02
+238,US,United States,Canton,269418,Ohio,2021-10-02
+239,US,United States,Lubbock,267648,Texas,2021-10-02
+240,US,United States,Reading,267155,Pennsylvania,2021-10-02
+241,US,United States,Winter Haven,267069,Florida,2021-10-02
+242,US,United States,Salem,266804,Oregon,2021-10-02
+243,US,United States,St. Petersburg,265351,Florida,2021-10-02
+244,US,United States,Lafayette,264357,Louisiana,2021-10-02
+245,US,United States,Laredo,262491,Texas,2021-10-02
+246,US,United States,Jersey City,262075,New Jersey,2021-10-02
+247,US,United States,Concord,261801,North Carolina,2021-10-02
+248,US,United States,Columbus,261445,Georgia,2021-10-02
+249,US,United States,Chandler,261165,Arizona,2021-10-02
+250,US,United States,McKinney,258277,Texas,2021-10-02
+251,US,United States,Scottsdale,258069,Arizona,2021-10-02
+252,US,United States,Killeen,258009,Texas,2021-10-02
+253,US,United States,Tallahassee,257601,Florida,2021-10-02
+254,US,United States,Peoria,256286,Illinois,2021-10-02
+255,US,United States,Wilmington,255616,North Carolina,2021-10-02
+256,US,United States,Montgomery,254634,Alabama,2021-10-02
+257,US,United States,Gilbert,254114,Arizona,2021-10-02
+258,US,United States,Glendale,252381,Arizona,2021-10-02
+259,US,United States,North Las Vegas,251974,Nevada,2021-10-02
+260,US,United States,Chesapeake,244835,Virginia,2021-10-02
+261,US,United States,Barnstable,242847,Massachusetts,2021-10-02
+262,US,United States,Norfolk,242742,Virginia,2021-10-02
+263,US,United States,Fremont,241110,California,2021-10-02
+264,US,United States,Kennewick,240735,Washington,2021-10-02
+265,US,United States,Garland,239928,Texas,2021-10-02
+266,US,United States,Irving,239798,Texas,2021-10-02
+267,US,United States,Visalia,237386,California,2021-10-02
+268,US,United States,Atlantic City,237054,New Jersey,2021-10-02
+269,US,United States,Paradise,235087,Nevada,2021-10-02
+270,US,United States,Nashua,233917,New Hampshire,2021-10-02
+271,US,United States,Arlington,233464,Virginia,2021-10-02
+272,US,United States,Hialeah,233339,Florida,2021-10-02
+273,US,United States,York,233184,Pennsylvania,2021-10-02
+274,US,United States,Evansville,230427,Indiana,2021-10-02
+275,MY,Malaysia,Sungai Petani,228843,Butterworth,2021-10-02
+276,MY,Malaysia,Miri,228212,Subang Jaya,2021-10-02
+277,US,United States,Avondale,227289,Arizona,2021-10-02
+278,US,United States,Brownsville,227239,Texas,2021-10-02
+279,US,United States,Gulfport,220987,Mississippi,2021-10-02
+280,US,United States,Appleton,220570,Wisconsin,2021-10-02
+281,US,United States,Bremerton,218400,Washington,2021-10-02
+282,US,United States,Hickory,218323,North Carolina,2021-10-02
+283,US,United States,Tacoma,217827,Washington,2021-10-02
+284,MY,Malaysia,Taiping,217647,Kota Samarahan,2021-10-02
+285,MY,Malaysia,Alor Setar,217368,Batu Delapan Bazaar,2021-10-02
+286,US,United States,San Bernardino,215784,California,2021-10-02
+287,US,United States,College Station,215243,Texas,2021-10-02
+288,US,United States,Kalamazoo,215193,Michigan,2021-10-02
+289,US,United States,Thousand Oaks,215029,California,2021-10-02
+290,US,United States,Roanoke,214674,Virginia,2021-10-02
+291,US,United States,Fontana,214547,California,2021-10-02
+292,US,United States,Moreno Valley,213055,California,2021-10-02
+293,MY,Malaysia,Sepang,212050,Kapit,2021-10-02
+294,US,United States,North Port,209070,Florida,2021-10-02
+295,US,United States,Fargo,208675,North Dakota,2021-10-02
+296,US,United States,Green Bay,207557,Wisconsin,2021-10-02
+297,US,United States,Spring Valley,207127,Nevada,2021-10-02
+298,US,United States,Amarillo,205603,Texas,2021-10-02
+299,US,United States,Portland,203969,Maine,2021-10-02
+300,US,United States,Santa Barbara,202401,California,2021-10-02
+301,US,United States,Gainesville,202335,Florida,2021-10-02
+302,US,United States,Olympia,200915,Washington,2021-10-02
+303,US,United States,Frisco,200490,Texas,2021-10-02
+304,US,United States,Yonkers,200370,New York,2021-10-02
+305,US,United States,Norwich,200289,Connecticut,2021-10-02
+306,US,United States,Glendale,199303,California,2021-10-02
+307,US,United States,Huntington Beach,199223,California,2021-10-02
+308,US,United States,Deltona,198361,Florida,2021-10-02
+309,MY,Malaysia,Sibu,198239,Sri Aman,2021-10-02
+310,US,United States,Aurora,197757,Illinois,2021-10-02
+311,US,United States,Tempe,195805,Arizona,2021-10-02
+312,US,United States,Overland Park,195494,Kansas,2021-10-02
+313,US,United States,Grand Prairie,194543,Texas,2021-10-02
+314,US,United States,Sunrise Manor,193781,Nevada,2021-10-02
+315,US,United States,Waco,192315,Texas,2021-10-02
+316,US,United States,Salinas,190972,California,2021-10-02
+317,US,United States,Waterbury,189614,Connecticut,2021-10-02
+318,US,United States,Clarksville,188746,Tennessee,2021-10-02
+319,US,United States,Cedar Rapids,188038,Iowa,2021-10-02
+320,US,United States,Sioux Falls,187239,South Dakota,2021-10-02
+321,US,United States,Huntington,186034,West Virginia,2021-10-02
+322,US,United States,Ontario,185010,California,2021-10-02
+323,US,United States,Hagerstown,184755,Maryland,2021-10-02
+324,US,United States,Erie,184484,Pennsylvania,2021-10-02
+325,US,United States,Vancouver,184463,Washington,2021-10-02
+326,US,United States,Nampa,184428,Idaho,2021-10-02
+327,US,United States,Spartanburg,182701,South Carolina,2021-10-02
+328,US,United States,Gastonia,182581,North Carolina,2021-10-02
+329,US,United States,Fort Lauderdale,182437,Florida,2021-10-02
+330,MY,Malaysia,Malacca,180671,Sarikei,2021-10-02
+331,US,United States,Lorain,180279,Ohio,2021-10-02
+332,US,United States,Murfreesboro,179951,Tennessee,2021-10-02
+333,US,United States,High Point,179913,North Carolina,2021-10-02
+334,US,United States,Newport News,179225,Virginia,2021-10-02
+335,US,United States,Rancho Cucamonga,177603,California,2021-10-02
+336,US,United States,Hemet,177253,California,2021-10-02
+337,US,United States,Santa Cruz,176428,California,2021-10-02
+338,US,United States,Danbury,176030,Connecticut,2021-10-02
+339,US,United States,Peoria,175961,Arizona,2021-10-02
+340,US,United States,Oceanside,175742,California,2021-10-02
+341,US,United States,Elk Grove,174775,California,2021-10-02
+342,US,United States,Pembroke Pines,173591,Florida,2021-10-02
+343,US,United States,Vallejo,173256,California,2021-10-02
+344,US,United States,Garden Grove,171644,California,2021-10-02
+345,US,United States,Enterprise,171108,Nevada,2021-10-02
+346,MY,Malaysia,Kulim,170889,Klang,2021-10-02
+347,US,United States,Medford,170876,Oregon,2021-10-02
+348,US,United States,Cary,170282,North Carolina,2021-10-02
+349,US,United States,Marysville,170009,Washington,2021-10-02
+350,US,United States,Corona,169868,California,2021-10-02
+351,MY,Malaysia,Kluang,169828,Limbang,2021-10-02
+352,US,United States,Ocala,169383,Florida,2021-10-02
+353,US,United States,Fredericksburg,168909,Virginia,2021-10-02
+354,US,United States,Gainesville,167371,Georgia,2021-10-02
+355,US,United States,Manchester,162877,New Hampshire,2021-10-02
+356,US,United States,Bayamón,161034,Puerto Rico,2021-10-02
+357,MY,Malaysia,Skudai,159733,Sibu,2021-10-02
+358,US,United States,Champaign,159443,Illinois,2021-10-02
+359,US,United States,Alexandria,159428,Virginia,2021-10-02
+360,US,United States,Hayward,159203,California,2021-10-02
+361,US,United States,Springfield,158509,Illinois,2021-10-02
+362,US,United States,Lakewood,157935,Colorado,2021-10-02
+363,US,United States,Lafayette,157820,Indiana,2021-10-02
+364,US,United States,Frederick,156787,Maryland,2021-10-02
+365,MY,Malaysia,Batu Pahat,156236,Miri,2021-10-02
+366,US,United States,Lake Charles,156181,Louisiana,2021-10-02
+367,US,United States,Odessa,155998,Texas,2021-10-02
+368,US,United States,Tuscaloosa,155499,Alabama,2021-10-02
+369,US,United States,Warner Robins,155140,Georgia,2021-10-02
+370,US,United States,Palmdale,155079,California,2021-10-02
+371,US,United States,Hollywood,154817,Florida,2021-10-02
+372,US,United States,Midland,154793,Texas,2021-10-02
+373,US,United States,Leesburg,154574,Florida,2021-10-02
+374,US,United States,Port Arthur,154468,Texas,2021-10-02
+375,US,United States,Muskegon,153565,Michigan,2021-10-02
+376,US,United States,Macon,153159,Georgia,2021-10-02
+377,US,United States,Kansas City,152960,Kansas,2021-10-02
+378,US,United States,Sunnyvale,152703,California,2021-10-02
+379,US,United States,Pomona,151691,California,2021-10-02
+380,US,United States,Escondido,151625,California,2021-10-02
+381,MY,Malaysia,Bintulu,151617,Kuching,2021-10-02
+382,US,United States,Pasadena,151227,Texas,2021-10-02
+383,US,United States,New Bedford,149910,Massachusetts,2021-10-02
+384,US,United States,Fairfield,148683,California,2021-10-02
+385,US,United States,Naperville,148449,Illinois,2021-10-02
+386,US,United States,Bellevue,148164,Washington,2021-10-02
+387,US,United States,Binghamton,148145,New York,2021-10-02
+388,US,United States,Elkhart,147567,Indiana,2021-10-02
+389,US,United States,Topeka,147458,Kansas,2021-10-02
+390,US,United States,Joliet,147344,Illinois,2021-10-02
+391,US,United States,Beaumont,146091,Texas,2021-10-02
+392,MY,Malaysia,Kampung Pasir Gudang Baru,145639,Kota Belud,2021-10-02
+393,US,United States,Paterson,145233,New Jersey,2021-10-02
+394,US,United States,Merced,145149,California,2021-10-02
+395,US,United States,Pueblo,143932,Colorado,2021-10-02
+396,US,United States,Tyler,143796,Texas,2021-10-02
+397,US,United States,Torrance,143592,California,2021-10-02
+398,US,United States,Yuma,142847,Arizona,2021-10-02
+399,US,United States,Metairie,142135,Louisiana,2021-10-02
+400,US,United States,Surprise,141664,Arizona,2021-10-02
+401,US,United States,Columbia,141645,Missouri,2021-10-02
+402,US,United States,Athens,141532,Georgia,2021-10-02
+403,US,United States,Roseville,141500,California,2021-10-02
+404,US,United States,Thornton,141464,Colorado,2021-10-02
+405,US,United States,Miramar,141191,Florida,2021-10-02
+406,US,United States,Pasadena,141029,California,2021-10-02
+407,US,United States,Mesquite,140937,Texas,2021-10-02
+408,MY,Malaysia,Kampung Sungai Ara,140849,Kinarut,2021-10-02
+409,US,United States,Olathe,140545,Kansas,2021-10-02
+410,US,United States,Santa Maria,140545,California,2021-10-02
+411,US,United States,Houma,140469,Louisiana,2021-10-02
+412,US,United States,Carrollton,139248,Texas,2021-10-02
+413,US,United States,Grand Junction,139143,Colorado,2021-10-02
+414,US,United States,Charleston,138706,West Virginia,2021-10-02
+415,US,United States,Orange,138669,California,2021-10-02
+416,US,United States,Fullerton,138632,California,2021-10-02
+417,US,United States,Greeley,137810,Colorado,2021-10-02
+418,US,United States,Carolina,136771,Puerto Rico,2021-10-02
+419,US,United States,Las Cruces,136254,New Mexico,2021-10-02
+420,US,United States,Panama City,136133,Florida,2021-10-02
+421,US,United States,Harlingen,136037,Texas,2021-10-02
+422,MY,Malaysia,Tasek Glugor,135786,Beaufort,2021-10-02
+423,US,United States,West Valley City,135248,Utah,2021-10-02
+424,US,United States,Hampton,134510,Virginia,2021-10-02
+425,US,United States,Warren,133943,Michigan,2021-10-02
+426,US,United States,Mauldin,133872,South Carolina,2021-10-02
+427,US,United States,Bloomington,133846,Illinois,2021-10-02
+428,US,United States,Coral Springs,133759,Florida,2021-10-02
+429,US,United States,Round Rock,133372,Texas,2021-10-02
+430,US,United States,Yakima,133191,Washington,2021-10-02
+431,US,United States,Sterling Heights,132438,Michigan,2021-10-02
+432,US,United States,Kent,132319,Washington,2021-10-02
+433,US,United States,Burlington,131043,North Carolina,2021-10-02
+434,US,United States,Bellingham,130641,Washington,2021-10-02
+435,US,United States,Santa Clara,130365,California,2021-10-02
+436,US,United States,Racine,130142,Wisconsin,2021-10-02
+437,US,United States,Greenville,130118,North Carolina,2021-10-02
+438,US,United States,Stamford,129638,Connecticut,2021-10-02
+439,US,United States,Elizabeth,129216,New Jersey,2021-10-02
+440,MY,Malaysia,Muar,127897,Perai,2021-10-02
+441,US,United States,Johnson City,127571,Tennessee,2021-10-02
+442,US,United States,Lynchburg,126814,Virginia,2021-10-02
+443,US,United States,Simi Valley,126589,California,2021-10-02
+444,US,United States,Fort Smith,125354,Arkansas,2021-10-02
+445,US,United States,Kenosha,124972,Wisconsin,2021-10-02
+446,US,United States,Norman,124880,Oklahoma,2021-10-02
+447,US,United States,South Lyon,124694,Michigan,2021-10-02
+448,US,United States,Boulder,124345,Colorado,2021-10-02
+449,US,United States,Abilene,123420,Texas,2021-10-02
+450,US,United States,Lehigh Acres,123378,Florida,2021-10-02
+451,US,United States,Pearland,122460,Texas,2021-10-02
+452,US,United States,Berkeley,121363,California,2021-10-02
+453,US,United States,Richardson,121323,Texas,2021-10-02
+454,US,United States,Redding,121313,California,2021-10-02
+455,US,United States,Arvada,121272,Colorado,2021-10-02
+456,US,United States,East Los Angeles,121187,California,2021-10-02
+457,US,United States,St. George,120899,Utah,2021-10-02
+458,US,United States,Billings,120728,Montana,2021-10-02
+459,US,United States,Yuba City,120456,California,2021-10-02
+460,MY,Malaysia,Rawang,120447,Kunak,2021-10-02
+461,US,United States,Rochester,119942,Minnesota,2021-10-02
+462,US,United States,Leominster,119690,Massachusetts,2021-10-02
+463,US,United States,Kingsport,119666,Tennessee,2021-10-02
+464,US,United States,Duluth,119476,Minnesota,2021-10-02
+465,US,United States,Rock Hill,119105,South Carolina,2021-10-02
+466,US,United States,Gilroy,118993,California,2021-10-02
+467,US,United States,Cambridge,118927,Massachusetts,2021-10-02
+468,US,United States,Sugar Land,118488,Texas,2021-10-02
+469,US,United States,Texas City,118169,Texas,2021-10-02
+470,US,United States,Iowa City,118041,Iowa,2021-10-02
+471,US,United States,Saginaw,117958,Michigan,2021-10-02
+472,US,United States,Chico,117668,California,2021-10-02
+473,US,United States,Dover,117282,Delaware,2021-10-02
+474,US,United States,Clearwater,116946,Florida,2021-10-02
+475,US,United States,Coeur d'Alene,116834,Idaho,2021-10-02
+476,US,United States,Seaside,116720,California,2021-10-02
+477,US,United States,Independence,116672,Missouri,2021-10-02
+478,US,United States,West Jordan,116480,Utah,2021-10-02
+479,US,United States,Brandon,115911,Florida,2021-10-02
+480,US,United States,Bloomington,115884,Indiana,2021-10-02
+481,US,United States,El Monte,115487,California,2021-10-02
+482,US,United States,North Charleston,115382,South Carolina,2021-10-02
+483,US,United States,Carlsbad,115382,California,2021-10-02
+484,US,United States,St. Cloud,115028,Minnesota,2021-10-02
+485,US,United States,Temecula,114761,California,2021-10-02
+486,US,United States,Clovis,114584,California,2021-10-02
+487,US,United States,Meridian,114161,Idaho,2021-10-02
+488,US,United States,The Woodlands,113819,Texas,2021-10-02
+489,US,United States,Ponce,113401,Puerto Rico,2021-10-02
+490,US,United States,Westminster,113166,Colorado,2021-10-02
+491,US,United States,Costa Mesa,113003,California,2021-10-02
+492,US,United States,Monroe,112891,Louisiana,2021-10-02
+493,US,United States,Utica,112650,New York,2021-10-02
+494,US,United States,Pompano Beach,112118,Florida,2021-10-02
+495,US,United States,West Palm Beach,111955,Florida,2021-10-02
+496,US,United States,Waterloo,111631,Iowa,2021-10-02
+497,US,United States,Everett,111475,Washington,2021-10-02
+498,US,United States,El Centro,111425,California,2021-10-02
+499,US,United States,Santa Fe,111269,New Mexico,2021-10-02
+500,US,United States,Downey,111126,California,2021-10-02
+501,US,United States,Spring Hill,111076,Florida,2021-10-02
+502,US,United States,Lowell,110997,Massachusetts,2021-10-02
+503,US,United States,Centennial,110937,Colorado,2021-10-02
+504,US,United States,Elgin,110849,Illinois,2021-10-02
+505,US,United States,Richmond,110567,California,2021-10-02
+506,US,United States,Broken Arrow,110198,Oklahoma,2021-10-02
+507,US,United States,Miami Gardens,110001,Florida,2021-10-02
+508,US,United States,Bend,109802,Oregon,2021-10-02
+509,US,United States,Burlington,109763,Vermont,2021-10-02
+510,US,United States,Jurupa Valley,109527,California,2021-10-02
+511,US,United States,Sandy Springs,109452,Georgia,2021-10-02
+512,US,United States,Gresham,109381,Oregon,2021-10-02
+513,US,United States,Lewisville,109212,Texas,2021-10-02
+514,US,United States,Hillsboro,109128,Oregon,2021-10-02
+515,US,United States,San Buenaventura,109106,California,2021-10-02
+516,US,United States,Jacksonville,108856,North Carolina,2021-10-02
+517,US,United States,Pottstown,108758,Pennsylvania,2021-10-02
+518,US,United States,Inglewood,108151,California,2021-10-02
+519,MY,Malaysia,Butterworth,107591,Ayer Itam,2021-10-02
+520,US,United States,League City,107536,Texas,2021-10-02
+521,US,United States,Eau Claire,107404,Wisconsin,2021-10-02
+522,US,United States,Turlock,107317,California,2021-10-02
+523,US,United States,Temple,107258,Texas,2021-10-02
+524,US,United States,Sioux City,106455,Iowa,2021-10-02
+525,US,United States,Salisbury,106447,Maryland,2021-10-02
+526,US,United States,Davie,106306,Florida,2021-10-02
+527,US,United States,Daly City,106280,California,2021-10-02
+528,US,United States,Highlands Ranch,105631,Colorado,2021-10-02
+529,US,United States,Allen,105623,Texas,2021-10-02
+530,MY,Malaysia,Lahad Datu,105622,Tapah,2021-10-02
+531,US,United States,West Covina,105101,California,2021-10-02
+532,US,United States,Sparks,105006,Nevada,2021-10-02
+533,US,United States,Wichita Falls,104683,Texas,2021-10-02
+534,US,United States,San Mateo,104430,California,2021-10-02
+535,US,United States,Columbia,103991,Maryland,2021-10-02
+536,US,United States,Norwalk,103949,California,2021-10-02
+537,US,United States,Rialto,103526,California,2021-10-02
+538,US,United States,Manteca,103420,California,2021-10-02
+539,US,United States,Arden-Arcade,102864,California,2021-10-02
+540,US,United States,El Cajon,102708,California,2021-10-02
+541,US,United States,Burbank,102511,California,2021-10-02
+542,US,United States,Longmont,102474,Colorado,2021-10-02
+543,US,United States,Renton,101751,Washington,2021-10-02
+544,US,United States,Vista,101638,California,2021-10-02
+545,US,United States,Logan,101616,Utah,2021-10-02
+546,US,United States,Prescott Valley,101539,Arizona,2021-10-02
+547,US,United States,Vacaville,101444,California,2021-10-02
+548,US,United States,Edinburg,101170,Texas,2021-10-02
+549,US,United States,Carmel,101068,Indiana,2021-10-02
+550,US,United States,Spokane Valley,101060,Washington,2021-10-02
+551,US,United States,San Angelo,101004,Texas,2021-10-02
+552,US,United States,La Crosse,100693,Wisconsin,2021-10-02
+553,US,United States,Idaho Falls,100442,Idaho,2021-10-02
+554,US,United States,Holland,100432,Michigan,2021-10-02
+555,US,United States,Charlottesville,100416,Virginia,2021-10-02
+556,US,United States,Longview,100330,Texas,2021-10-02
+557,US,United States,Tracy,100049,California,2021-10-02
+558,US,United States,Boca Raton,99805,Florida,2021-10-02
+559,US,United States,Lafayette,99645,Colorado,2021-10-02
+560,US,United States,Lee's Summit,99357,Missouri,2021-10-02
+561,US,United States,Rio Rancho,99178,New Mexico,2021-10-02
+562,US,United States,South Fulton,99155,Georgia,2021-10-02
+563,US,United States,Beaverton,99037,Oregon,2021-10-02
+564,US,United States,Lawrence,98648,Kansas,2021-10-02
+565,US,United States,Bismarck,98345,North Dakota,2021-10-02
+566,US,United States,Orem,97828,Utah,2021-10-02
+567,US,United States,Middletown,97730,Ohio,2021-10-02
+568,US,United States,San Tan Valley,96692,Arizona,2021-10-02
+569,US,United States,San Marcos,96664,California,2021-10-02
+570,US,United States,Sandy,96380,Utah,2021-10-02
+571,US,United States,Federal Way,96289,Washington,2021-10-02
+572,US,United States,Mandeville,95968,Louisiana,2021-10-02
+573,US,United States,Hesperia,95750,California,2021-10-02
+574,US,United States,Brockton,95708,Massachusetts,2021-10-02
+575,US,United States,Compton,95605,California,2021-10-02
+576,US,United States,Riverview,95338,Florida,2021-10-02
+577,US,United States,Fishers,95310,Indiana,2021-10-02
+578,US,United States,Sunrise,95166,Florida,2021-10-02
+579,US,United States,Bowling Green,95135,Kentucky,2021-10-02
+580,US,United States,Roswell,94763,Georgia,2021-10-02
+581,US,United States,Menifee,94756,California,2021-10-02
+582,US,United States,Plantation,94580,Florida,2021-10-02
+583,US,United States,Dover,94563,New Hampshire,2021-10-02
+584,US,United States,Quincy,94470,Massachusetts,2021-10-02
+585,US,United States,Portsmouth,94398,Virginia,2021-10-02
+586,US,United States,Chino,94371,California,2021-10-02
+587,US,United States,Lynn,94299,Massachusetts,2021-10-02
+588,US,United States,Edmond,94054,Oklahoma,2021-10-02
+589,US,United States,Hanford,94028,California,2021-10-02
+590,US,United States,Dearborn,93932,Michigan,2021-10-02
+591,US,United States,Livonia,93665,Michigan,2021-10-02
+592,US,United States,South Gate,93444,California,2021-10-02
+593,US,United States,Vineland,93239,New Jersey,2021-10-02
+594,US,United States,Florence,93131,South Carolina,2021-10-02
+595,US,United States,Portsmouth,93069,New Hampshire,2021-10-02
+596,US,United States,Slidell,93040,Louisiana,2021-10-02
+597,US,United States,Lawton,93025,Oklahoma,2021-10-02
+598,US,United States,Kirkland,93010,Washington,2021-10-02
+599,US,United States,Missoula,92895,Montana,2021-10-02
+600,US,United States,Auburn,92777,Alabama,2021-10-02
+601,US,United States,Rapid City,92664,South Dakota,2021-10-02
+602,MY,Malaysia,Semenyih,92491,Bukit Tinggi,2021-10-02
+603,US,United States,Terre Haute,92490,Indiana,2021-10-02
+604,US,United States,Suffolk,92108,Virginia,2021-10-02
+605,US,United States,Blacksburg,91888,Virginia,2021-10-02
+606,US,United States,Mount Pleasant,91684,South Carolina,2021-10-02
+607,US,United States,Carson,91394,California,2021-10-02
+608,US,United States,Conroe,91079,Texas,2021-10-02
+609,US,United States,Alafaya,91068,Florida,2021-10-02
+610,US,United States,Livermore,90923,California,2021-10-02
+611,US,United States,Westminster,90643,California,2021-10-02
+612,US,United States,Germantown,90582,Maryland,2021-10-02
+613,US,United States,Santa Monica,90401,California,2021-10-02
+614,US,United States,New Braunfels,90209,Texas,2021-10-02
+615,US,United States,Fall River,89541,Massachusetts,2021-10-02
+616,US,United States,Albany,89217,Georgia,2021-10-02
+617,MY,Malaysia,Port Dickson,89198,Teluk Intan,2021-10-02
+618,US,United States,Miami Beach,88885,Florida,2021-10-02
+619,US,United States,Norwalk,88816,Connecticut,2021-10-02
+620,US,United States,San Leandro,88815,California,2021-10-02
+621,US,United States,O'Fallon,88673,Missouri,2021-10-02
+622,US,United States,Newton,88414,Massachusetts,2021-10-02
+623,US,United States,Muncie,87879,Indiana,2021-10-02
+624,US,United States,Citrus Heights,87796,California,2021-10-02
+625,US,United States,State College,87723,Pennsylvania,2021-10-02
+626,US,United States,Town 'n' Country,87338,Florida,2021-10-02
+627,US,United States,Decatur,87236,Illinois,2021-10-02
+628,US,United States,Jackson,87110,Michigan,2021-10-02
+629,US,United States,Fort Myers,87103,Florida,2021-10-02
+630,US,United States,Goodyear,86840,Arizona,2021-10-02
+631,US,United States,Dalton,86628,Georgia,2021-10-02
+632,US,United States,Bryan,86276,Texas,2021-10-02
+633,US,United States,Waukegan,86075,Illinois,2021-10-02
+634,US,United States,Hawthorne,86068,California,2021-10-02
+635,US,United States,Anderson,85992,Indiana,2021-10-02
+636,US,United States,Redwood City,85925,California,2021-10-02
+637,US,United States,Hoover,85768,Alabama,2021-10-02
+638,US,United States,Lake Forest,85531,California,2021-10-02
+639,US,United States,Napa,85239,California,2021-10-02
+640,US,United States,Whittier,85098,California,2021-10-02
+641,US,United States,Clifton,85052,New Jersey,2021-10-02
+642,US,United States,Largo,84948,Florida,2021-10-02
+643,US,United States,Bloomington,84943,Minnesota,2021-10-02
+644,US,United States,Johns Creek,84579,Georgia,2021-10-02
+645,US,United States,Newport Beach,84534,California,2021-10-02
+646,US,United States,Mission,84331,Texas,2021-10-02
+647,US,United States,Milpitas,84196,California,2021-10-02
+648,US,United States,Troy,84092,Michigan,2021-10-02
+649,US,United States,Madera,84086,California,2021-10-02
+650,US,United States,Joplin,84048,Missouri,2021-10-02
+651,US,United States,Chino Hills,83853,California,2021-10-02
+652,US,United States,Alhambra,83750,California,2021-10-02
+653,US,United States,Franklin,83097,Tennessee,2021-10-02
+654,US,United States,Melbourne,83029,Florida,2021-10-02
+655,US,United States,Port Huron,82970,Michigan,2021-10-02
+656,US,United States,Springfield,82820,Ohio,2021-10-02
+657,US,United States,Mountain View,82739,California,2021-10-02
+658,US,United States,Zephyrhills,82476,Florida,2021-10-02
+659,MY,Malaysia,Cukai,82425,Simpang Empat,2021-10-02
+660,US,United States,St. Augustine,82180,Florida,2021-10-02
+661,US,United States,Flagstaff,81974,Arizona,2021-10-02
+662,US,United States,Buena Park,81788,California,2021-10-02
+663,US,United States,Pleasanton,81777,California,2021-10-02
+664,US,United States,Silver Spring,81773,Maryland,2021-10-02
+665,US,United States,Atascocita,81557,Texas,2021-10-02
+666,US,United States,Westland,81511,Michigan,2021-10-02
+667,US,United States,Auburn,81464,Washington,2021-10-02
+668,US,United States,Cranston,81456,Rhode Island,2021-10-02
+669,US,United States,Somerville,81360,Massachusetts,2021-10-02
+670,US,United States,Folsom,81328,California,2021-10-02
+671,US,United States,Springdale,81125,Arkansas,2021-10-02
+672,US,United States,Deerfield Beach,81066,Florida,2021-10-02
+673,US,United States,Warwick,81004,Rhode Island,2021-10-02
+674,US,United States,Cicero,80796,Illinois,2021-10-02
+675,US,United States,Farmington Hills,80612,Michigan,2021-10-02
+676,US,United States,Newark,80451,Ohio,2021-10-02
+677,US,United States,Williamsburg,80441,Virginia,2021-10-02
+678,US,United States,Brooklyn Park,80389,Minnesota,2021-10-02
+679,US,United States,Hattiesburg,80138,Mississippi,2021-10-02
+680,US,United States,Alexandria,80129,Louisiana,2021-10-02
+681,US,United States,Lawrence,80028,Massachusetts,2021-10-02
+682,US,United States,Florence,79964,Alabama,2021-10-02
+683,US,United States,Valdosta,79820,Georgia,2021-10-02
+684,US,United States,Plymouth,79768,Minnesota,2021-10-02
+685,US,United States,Buckeye,79620,Arizona,2021-10-02
+686,US,United States,Georgetown,79604,Texas,2021-10-02
+687,US,United States,Cheyenne,79484,Wyoming,2021-10-02
+688,US,United States,Cedar Park,79462,Texas,2021-10-02
+689,US,United States,The Villages,79372,Florida,2021-10-02
+690,US,United States,Kokomo,79351,Indiana,2021-10-02
+691,US,United States,Tustin,79348,California,2021-10-02
+692,US,United States,Lakewood,79307,California,2021-10-02
+693,US,United States,Perris,79291,California,2021-10-02
+694,US,United States,St. Joseph,79161,Missouri,2021-10-02
+695,US,United States,Flower Mound,79135,Texas,2021-10-02
+696,US,United States,Pharr,79112,Texas,2021-10-02
+697,US,United States,Pine Hills,78995,Florida,2021-10-02
+698,US,United States,Alton,78905,Illinois,2021-10-02
+699,US,United States,Loveland,78877,Colorado,2021-10-02
+700,US,United States,Boynton Beach,78679,Florida,2021-10-02
+701,US,United States,New Rochelle,78557,New York,2021-10-02
+702,US,United States,Anderson,78512,South Carolina,2021-10-02
+703,US,United States,Jonesboro,78394,Arkansas,2021-10-02
+704,MY,Malaysia,Putatan,78340,Sitiawan,2021-10-02
+705,US,United States,Lebanon,78302,Pennsylvania,2021-10-02
+706,US,United States,Parma,78103,Ohio,2021-10-02
+707,US,United States,Layton,78014,Utah,2021-10-02
+708,US,United States,Elizabethtown,78002,Kentucky,2021-10-02
+709,US,United States,Texarkana,77964,Texas,2021-10-02
+710,MY,Malaysia,Keningau,77650,Taiping,2021-10-02
+711,US,United States,Alameda,77624,California,2021-10-02
+712,US,United States,Kankakee,77429,Illinois,2021-10-02
+713,US,United States,Watsonville,77352,California,2021-10-02
+714,US,United States,Porterville,77318,California,2021-10-02
+715,US,United States,Baytown,77192,Texas,2021-10-02
+716,US,United States,Upland,77140,California,2021-10-02
+717,US,United States,Davis,76997,California,2021-10-02
+718,US,United States,Camarillo,76931,California,2021-10-02
+719,US,United States,South Jordan,76598,Utah,2021-10-02
+720,US,United States,Battle Creek,76514,Michigan,2021-10-02
+721,US,United States,Bellflower,76435,California,2021-10-02
+722,US,United States,San Marcos,76218,Texas,2021-10-02
+723,US,United States,San Ramon,75995,California,2021-10-02
+724,US,United States,Lake Jackson,75860,Texas,2021-10-02
+725,US,United States,Bethlehem,75815,Pennsylvania,2021-10-02
+726,US,United States,Wyoming,75667,Michigan,2021-10-02
+727,US,United States,Oshkosh,75536,Wisconsin,2021-10-02
+728,US,United States,Hammond,75522,Indiana,2021-10-02
+729,US,United States,Waldorf,75489,Maryland,2021-10-02
+730,US,United States,Missouri City,75457,Texas,2021-10-02
+731,US,United States,Pasco,75432,Washington,2021-10-02
+732,US,United States,Wheeling,75392,West Virginia,2021-10-02
+733,MY,Malaysia,Ulu Tiram,75350,Ipoh,2021-10-02
+734,US,United States,Kendall,75312,Florida,2021-10-02
+735,US,United States,Baldwin Park,75251,California,2021-10-02
+736,US,United States,Rancho Cordova,75087,California,2021-10-02
+737,US,United States,Conway,74951,Arkansas,2021-10-02
+738,US,United States,Gary,74879,Indiana,2021-10-02
+739,US,United States,Altoona,74829,Pennsylvania,2021-10-02
+740,US,United States,Lodi,74773,California,2021-10-02
+741,US,United States,Arlington Heights,74760,Illinois,2021-10-02
+742,US,United States,Bolingbrook,74545,Illinois,2021-10-02
+743,US,United States,Rochester Hills,74516,Michigan,2021-10-02
+744,US,United States,Winchester,74417,Virginia,2021-10-02
+745,US,United States,Framingham,74416,Massachusetts,2021-10-02
+746,US,United States,Hilton Head Island,74139,South Carolina,2021-10-02
+747,US,United States,Centreville,74125,Virginia,2021-10-02
+748,US,United States,Union City,74107,California,2021-10-02
+749,US,United States,Owensboro,74068,Kentucky,2021-10-02
+750,US,United States,Jackson,74065,Tennessee,2021-10-02
+751,MY,Malaysia,Victoria,73653,Lumut,2021-10-02
+752,US,United States,Cleveland,73596,Tennessee,2021-10-02
+753,US,United States,Wausau,73593,Wisconsin,2021-10-02
+754,US,United States,Camden,73562,New Jersey,2021-10-02
+755,US,United States,Anniston,73501,Alabama,2021-10-02
+756,US,United States,Evanston,73473,Illinois,2021-10-02
+757,US,United States,Apple Valley,73453,California,2021-10-02
+758,US,United States,Mansfield,73326,Ohio,2021-10-02
+759,US,United States,Caguas,73322,Puerto Rico,2021-10-02
+760,MY,Malaysia,Taman Senai,73176,Bandar Jengka,2021-10-02
+761,US,United States,Schaumburg,72887,Illinois,2021-10-02
+762,US,United States,Pocatello,72878,Idaho,2021-10-02
+763,US,United States,Woodbury,72828,Minnesota,2021-10-02
+764,US,United States,Southfield,72689,Michigan,2021-10-02
+765,US,United States,Ellicott City,72665,Maryland,2021-10-02
+766,US,United States,Dale City,72627,Virginia,2021-10-02
+767,US,United States,Maple Grove,72622,Minnesota,2021-10-02
+768,US,United States,Pittsburg,72588,California,2021-10-02
+769,US,United States,New Britain,72495,Connecticut,2021-10-02
+770,US,United States,Morgantown,72458,West Virginia,2021-10-02
+771,US,United States,Mansfield,72419,Texas,2021-10-02
+772,US,United States,Hammond,72413,Louisiana,2021-10-02
+773,US,United States,Dothan,72396,Alabama,2021-10-02
+774,US,United States,Harrisonburg,72386,Virginia,2021-10-02
+775,US,United States,Wenatchee,72350,Washington,2021-10-02
+776,US,United States,Waukesha,72299,Wisconsin,2021-10-02
+777,US,United States,Pawtucket,72117,Rhode Island,2021-10-02
+778,US,United States,Redmond,71929,Washington,2021-10-02
+779,US,United States,Lauderhill,71868,Florida,2021-10-02
+780,MY,Malaysia,Donggongon,71585,Mentakab,2021-10-02
+781,US,United States,Sumter,71518,South Carolina,2021-10-02
+782,US,United States,Redlands,71513,California,2021-10-02
+783,US,United States,Daphne,71484,Alabama,2021-10-02
+784,US,United States,Mount Vernon,71422,Washington,2021-10-02
+785,US,United States,Weston,71166,Florida,2021-10-02
+786,US,United States,St. Charles,71028,Missouri,2021-10-02
+787,US,United States,Janesville,70755,Wisconsin,2021-10-02
+788,US,United States,Sherman,70704,Texas,2021-10-02
+789,US,United States,North Richland Hills,70670,Texas,2021-10-02
+790,US,United States,Broomfield,70465,Colorado,2021-10-02
+791,US,United States,El Paso de Robles,70248,California,2021-10-02
+792,US,United States,Bristol,70243,Tennessee,2021-10-02
+793,US,United States,Wilmington,70166,Delaware,2021-10-02
+794,US,United States,Casas Adobes,70166,Arizona,2021-10-02
+795,US,United States,Walnut Creek,70166,California,2021-10-02
+796,US,United States,Poinciana,69955,Florida,2021-10-02
+797,US,United States,Lynwood,69887,California,2021-10-02
+798,US,United States,Glen Burnie,69872,Maryland,2021-10-02
+799,MY,Malaysia,Segamat,69816,Kuala Lipis,2021-10-02
+800,US,United States,Lehi,69724,Utah,2021-10-02
+801,US,United States,Passaic,69703,New Jersey,2021-10-02
+802,US,United States,Homestead,69523,Florida,2021-10-02
+803,US,United States,West Bend,69504,Wisconsin,2021-10-02
+804,US,United States,Delray Beach,69451,Florida,2021-10-02
+805,US,United States,Sheboygan,69393,Wisconsin,2021-10-02
+806,MY,Malaysia,Kampong Baharu Balakong,69302,Pekan,2021-10-02
+807,US,United States,Lake Elsinore,69283,California,2021-10-02
+808,US,United States,Daytona Beach,69186,Florida,2021-10-02
+809,US,United States,Los Lunas,69020,New Mexico,2021-10-02
+810,US,United States,Lima,68878,Ohio,2021-10-02
+811,US,United States,Decatur,68867,Alabama,2021-10-02
+812,US,United States,Rocklin,68823,California,2021-10-02
+813,US,United States,Rogers,68669,Arkansas,2021-10-02
+814,US,United States,Castle Rock,68484,Colorado,2021-10-02
+815,US,United States,Hanover,68165,Pennsylvania,2021-10-02
+816,US,United States,Bossier City,68159,Louisiana,2021-10-02
+817,US,United States,Dubuque,68109,Iowa,2021-10-02
+818,US,United States,Rockville,68079,Maryland,2021-10-02
+819,US,United States,Victoria,68078,Texas,2021-10-02
+820,US,United States,Saratoga Springs,68028,New York,2021-10-02
+821,US,United States,Guaynabo,68024,Puerto Rico,2021-10-02
+822,US,United States,Gaithersburg,67985,Maryland,2021-10-02
+823,US,United States,Union City,67982,New Jersey,2021-10-02
+824,US,United States,Ames,67910,Iowa,2021-10-02
+825,US,United States,West Des Moines,67899,Iowa,2021-10-02
+826,US,United States,South San Francisco,67789,California,2021-10-02
+827,US,United States,Yorba Linda,67644,California,2021-10-02
+828,US,United States,Casper,67598,Wyoming,2021-10-02
+829,US,United States,Palatine,67482,Illinois,2021-10-02
+830,US,United States,Corvallis,67467,Oregon,2021-10-02
+831,US,United States,Ankeny,67355,Iowa,2021-10-02
+832,US,United States,Mount Vernon,67345,New York,2021-10-02
+833,US,United States,Rowlett,67339,Texas,2021-10-02
+834,US,United States,Lakeville,67317,Minnesota,2021-10-02
+835,US,United States,Alpharetta,67213,Georgia,2021-10-02
+836,US,United States,Longview,67081,Washington,2021-10-02
+837,US,United States,DeKalb,66959,Illinois,2021-10-02
+838,US,United States,Petaluma,66929,California,2021-10-02
+839,US,United States,Redondo Beach,66749,California,2021-10-02
+840,US,United States,Tamarac,66721,Florida,2021-10-02
+841,US,United States,Laguna Niguel,66385,California,2021-10-02
+842,US,United States,Eagan,66372,Minnesota,2021-10-02
+843,US,United States,Kenner,66340,Louisiana,2021-10-02
+844,US,United States,Bay City,66107,Michigan,2021-10-02
+845,US,United States,North Little Rock,65903,Arkansas,2021-10-02
+846,US,United States,Sammamish,65892,Washington,2021-10-02
+847,US,United States,Shawnee,65807,Kansas,2021-10-02
+848,US,United States,Jupiter,65791,Florida,2021-10-02
+849,US,United States,Doral,65741,Florida,2021-10-02
+850,US,United States,Florence-Graham,65716,California,2021-10-02
+851,US,United States,Carbondale,65671,Illinois,2021-10-02
+852,US,United States,Blaine,65607,Minnesota,2021-10-02
+853,US,United States,Weirton,65578,West Virginia,2021-10-02
+854,US,United States,Tulare,65496,California,2021-10-02
+855,US,United States,Wellington,65398,Florida,2021-10-02
+856,US,United States,Pflugerville,65380,Texas,2021-10-02
+857,US,United States,Palo Alto,65364,California,2021-10-02
+858,MY,Malaysia,Perai,65301,Jerantut,2021-10-02
+859,US,United States,Schenectady,65273,New York,2021-10-02
+860,US,United States,Great Falls,65131,Montana,2021-10-02
+861,US,United States,Michigan City,65058,Indiana,2021-10-02
+862,US,United States,Bayonne,64897,New Jersey,2021-10-02
+863,US,United States,Eden Prairie,64893,Minnesota,2021-10-02
+864,US,United States,Port Orange,64842,Florida,2021-10-02
+865,US,United States,Dublin,64826,California,2021-10-02
+866,US,United States,Grand Forks,64748,North Dakota,2021-10-02
+867,US,United States,Noblesville,64668,Indiana,2021-10-02
+868,US,United States,San Clemente,64558,California,2021-10-02
+869,US,United States,Brentwood,64474,California,2021-10-02
+870,US,United States,Carmichael,64454,California,2021-10-02
+871,US,United States,East Orange,64367,New Jersey,2021-10-02
+872,US,United States,Eastvale,64157,California,2021-10-02
+873,US,United States,Chapel Hill,64051,North Carolina,2021-10-02
+874,US,United States,Rocky Mount,64018,North Carolina,2021-10-02
+875,US,United States,Haverhill,64014,Massachusetts,2021-10-02
+876,MY,Malaysia,Kangar,63869,Raub,2021-10-02
+877,US,United States,Beloit,63762,Wisconsin,2021-10-02
+878,MY,Malaysia,Kulai,63762,Batu Gajah,2021-10-02
+879,US,United States,Glens Falls,63499,New York,2021-10-02
+880,MY,Malaysia,Jitra,63489,Kampung Koh,2021-10-02
+881,US,United States,Brentwood,63399,New York,2021-10-02
+882,MY,Malaysia,Teluk Intan,63353,Lawan Kuda Baharu,2021-10-02
+883,US,United States,Fairbanks,63245,Alaska,2021-10-02
+884,US,United States,Springfield,63230,Oregon,2021-10-02
+885,US,United States,Bethesda,63195,Maryland,2021-10-02
+886,US,United States,Johnstown,63141,Pennsylvania,2021-10-02
+887,US,United States,Dundalk,63015,Maryland,2021-10-02
+888,US,United States,Castro Valley,63013,California,2021-10-02
+889,US,United States,Coon Rapids,62998,Minnesota,2021-10-02
+890,US,United States,Elmira,62989,New York,2021-10-02
+891,US,United States,Mankato,62889,Minnesota,2021-10-02
+892,US,United States,Albany,62880,Oregon,2021-10-02
+893,US,United States,North Miami,62822,Florida,2021-10-02
+894,US,United States,Encinitas,62709,California,2021-10-02
+895,US,United States,Skokie,62700,Illinois,2021-10-02
+896,MY,Malaysia,Semporna,62641,Sungai Siput Utara,2021-10-02
+897,US,United States,Leander,62608,Texas,2021-10-02
+898,US,United States,Parkersburg,62566,West Virginia,2021-10-02
+899,US,United States,Waltham,62495,Massachusetts,2021-10-02
+900,US,United States,Port Charlotte,62327,Florida,2021-10-02
+901,US,United States,Palm Harbor,62310,Florida,2021-10-02
+902,US,United States,San Luis Obispo,62290,California,2021-10-02
+903,US,United States,Sebring,62250,Florida,2021-10-02
+904,US,United States,Council Bluffs,62166,Iowa,2021-10-02
+905,US,United States,Hamilton,62082,Ohio,2021-10-02
+906,US,United States,Moore,62055,Oklahoma,2021-10-02
+907,US,United States,Pico Rivera,62027,California,2021-10-02
+908,US,United States,Casa Grande,61966,Arizona,2021-10-02
+909,US,United States,Monessen,61960,Pennsylvania,2021-10-02
+910,US,United States,Montebello,61954,California,2021-10-02
+911,US,United States,Rome,61537,Georgia,2021-10-02
+912,US,United States,The Hammocks,61516,Florida,2021-10-02
+913,US,United States,Millcreek,61450,Utah,2021-10-02
+914,US,United States,Sanford,61448,Florida,2021-10-02
+915,US,United States,National City,61394,California,2021-10-02
+916,US,United States,Mayagüez,61361,Puerto Rico,2021-10-02
+917,US,United States,Burnsville,61339,Minnesota,2021-10-02
+918,US,United States,Coconut Creek,61248,Florida,2021-10-02
+919,US,United States,Morristown,61171,Tennessee,2021-10-02
+920,US,United States,Reston,61147,Virginia,2021-10-02
+921,US,United States,Lakewood,61037,Washington,2021-10-02
+922,US,United States,Spring,60976,Texas,2021-10-02
+923,US,United States,Gadsden,60944,Alabama,2021-10-02
+924,US,United States,Taylor,60922,Michigan,2021-10-02
+925,US,United States,Novi,60896,Michigan,2021-10-02
+926,US,United States,Marietta,60867,Georgia,2021-10-02
+927,US,United States,Hot Springs,60767,Arkansas,2021-10-02
+928,US,United States,Woodland,60598,California,2021-10-02
+929,US,United States,Fountainebleau,60547,Florida,2021-10-02
+930,US,United States,La Habra,60513,California,2021-10-02
+931,US,United States,Malden,60470,Massachusetts,2021-10-02
+932,US,United States,South Whittier,60357,California,2021-10-02
+933,US,United States,Commerce City,60336,Colorado,2021-10-02
+934,US,United States,South Hill,60172,Washington,2021-10-02
+935,MY,Malaysia,Putra Heights,60000,Sungai Ara,2021-10-02
+936,US,United States,Bristol,59947,Connecticut,2021-10-02
+937,MY,Malaysia,Temerluh,59916,Georgetown,2021-10-02
+938,US,United States,Columbus,59897,Indiana,2021-10-02
+939,US,United States,West Allis,59890,Wisconsin,2021-10-02
+940,US,United States,Taylorsville,59805,Utah,2021-10-02
+941,US,United States,Bangor,59772,Maine,2021-10-02
+942,US,United States,Monterey Park,59669,California,2021-10-02
+943,US,United States,Greenwood,59458,Indiana,2021-10-02
+944,US,United States,Bartlett,59440,Tennessee,2021-10-02
+945,US,United States,Bradenton,59439,Florida,2021-10-02
+946,US,United States,Pontiac,59438,Michigan,2021-10-02
+947,US,United States,Staunton,59433,Virginia,2021-10-02
+948,US,United States,Meriden,59395,Connecticut,2021-10-02
+949,US,United States,Gardena,59329,California,2021-10-02
+950,US,United States,Apex,59300,North Carolina,2021-10-02
+951,US,United States,Royal Oak,59277,Michigan,2021-10-02
+952,US,United States,Cupertino,59276,California,2021-10-02
+953,US,United States,La Mesa,59249,California,2021-10-02
+954,US,United States,Benton Harbor,59216,Michigan,2021-10-02
+955,US,United States,St. Clair Shores,58984,Michigan,2021-10-02
+956,US,United States,Des Plaines,58899,Illinois,2021-10-02
+957,US,United States,Lewiston,58802,Maine,2021-10-02
+958,US,United States,Margate,58796,Florida,2021-10-02
+959,US,United States,Midland,58787,Michigan,2021-10-02
+960,US,United States,Carson City,58756,Nevada,2021-10-02
+961,MY,Malaysia,Kampong Dungun,58674,Bukit Mertajam,2021-10-02
+962,US,United States,Bowie,58643,Maryland,2021-10-02
+963,US,United States,Middletown,58592,New York,2021-10-02
+964,US,United States,Caldwell,58481,Idaho,2021-10-02
+965,US,United States,San Rafael,58440,California,2021-10-02
+966,US,United States,Richland,58225,Washington,2021-10-02
+967,US,United States,St. Peters,58212,Missouri,2021-10-02
+968,US,United States,Wesley Chapel,58208,Florida,2021-10-02
+969,US,United States,Hendersonville,58113,Tennessee,2021-10-02
+970,US,United States,White Plains,58109,New York,2021-10-02
+971,US,United States,Huntersville,58098,North Carolina,2021-10-02
+972,US,United States,Santee,58081,California,2021-10-02
+973,US,United States,Jefferson City,58025,Missouri,2021-10-02
+974,MY,Malaysia,Simpang Empat,58004,Kuala Perlis,2021-10-02
+975,US,United States,Beckley,57942,West Virginia,2021-10-02
+976,US,United States,Arcadia,57939,California,2021-10-02
+977,US,United States,Titusville,57891,Florida,2021-10-02
+978,US,United States,Cartersville,57873,Georgia,2021-10-02
+979,US,United States,Walla Walla,57860,Washington,2021-10-02
+980,US,United States,Orland Park,57857,Illinois,2021-10-02
+981,US,United States,Towson,57817,Maryland,2021-10-02
+982,US,United States,Weymouth,57746,Massachusetts,2021-10-02
+983,US,United States,Parker,57706,Colorado,2021-10-02
+984,US,United States,Palm Beach Gardens,57704,Florida,2021-10-02
+985,US,United States,Bozeman,57695,Montana,2021-10-02
+986,US,United States,East Stroudsburg,57577,Pennsylvania,2021-10-02
+987,US,United States,Huntington Park,57509,California,2021-10-02
+988,US,United States,Taunton,57464,Massachusetts,2021-10-02
+989,US,United States,Midwest City,57407,Oklahoma,2021-10-02
+990,US,United States,Medford,57341,Massachusetts,2021-10-02
+991,US,United States,Goldsboro,57278,North Carolina,2021-10-02
+992,US,United States,Euless,57197,Texas,2021-10-02
+993,US,United States,Manhattan,57046,Kansas,2021-10-02
+994,US,United States,Shoreline,57027,Washington,2021-10-02
+995,US,United States,Lake Havasu City,56820,Arizona,2021-10-02
+996,US,United States,Smyrna,56666,Georgia,2021-10-02
+997,US,United States,Cape Girardeau,56551,Missouri,2021-10-02
+998,US,United States,Tamiami,56225,Florida,2021-10-02
+999,US,United States,Kendale Lakes,56182,Florida,2021-10-02
+1000,MY,Malaysia,Kuala Selangor,55887,Kangar,2021-10-02
+1001,US,United States,Grants Pass,55837,Oregon,2021-10-02
+1002,US,United States,Blue Springs,55829,Missouri,2021-10-02
+1003,US,United States,Southaven,55780,Mississippi,2021-10-02
+1004,US,United States,Tinley Park,55773,Illinois,2021-10-02
+1005,US,United States,Diamond Bar,55720,California,2021-10-02
+1006,US,United States,Pittsfield,55697,Massachusetts,2021-10-02
+1007,US,United States,Eagle Pass,55686,Texas,2021-10-02
+1008,US,United States,New Brunswick,55676,New Jersey,2021-10-02
+1009,MY,Malaysia,Kampung Bukit Baharu,55656,Kampar,2021-10-02
+1010,US,United States,Lenexa,55625,Kansas,2021-10-02
+1011,US,United States,Hazleton,55604,Pennsylvania,2021-10-02
+1012,US,United States,Twin Falls,55556,Idaho,2021-10-02
+1013,US,United States,Brookhaven,55554,Georgia,2021-10-02
+1014,US,United States,Novato,55516,California,2021-10-02
+1015,US,United States,Tigard,55514,Oregon,2021-10-02
+1016,US,United States,Highland,55417,California,2021-10-02
+1017,US,United States,Fountain Valley,55357,California,2021-10-02
+1018,US,United States,Dearborn Heights,55353,Michigan,2021-10-02
+1019,US,United States,Grapevine,55281,Texas,2021-10-02
+1020,US,United States,Fond du Lac,55209,Wisconsin,2021-10-02
+1021,US,United States,Hacienda Heights,55188,California,2021-10-02
+1022,US,United States,Ithaca,55137,New York,2021-10-02
+1023,US,United States,Apple Valley,55135,Minnesota,2021-10-02
+1024,US,United States,Chicopee,55126,Massachusetts,2021-10-02
+1025,US,United States,Oak Lawn,55022,Illinois,2021-10-02
+1026,US,United States,Cathedral City,55007,California,2021-10-02
+1027,US,United States,Delano,54917,California,2021-10-02
+1028,US,United States,Bentonville,54909,Arkansas,2021-10-02
+1029,US,United States,Stonecrest,54903,Georgia,2021-10-02
+1030,US,United States,Kettering,54855,Ohio,2021-10-02
+1031,US,United States,Colton,54824,California,2021-10-02
+1032,US,United States,Kingston,54791,New York,2021-10-02
+1033,MY,Malaysia,Bandar Labuan,54752,Gelugor,2021-10-02
+1034,US,United States,West Haven,54620,Connecticut,2021-10-02
+1035,US,United States,St. Cloud,54579,Florida,2021-10-02
+1036,US,United States,Normal,54469,Illinois,2021-10-02
+1037,US,United States,Berwyn,54391,Illinois,2021-10-02
+1038,US,United States,Milford,54328,Connecticut,2021-10-02
+1039,US,United States,Aloha,54287,Oregon,2021-10-02
+1040,US,United States,Arroyo Grande,54177,California,2021-10-02
+1041,US,United States,Minnetonka,54064,Minnesota,2021-10-02
+1042,US,United States,Rosemead,54058,California,2021-10-02
+1043,US,United States,Paramount,53955,California,2021-10-02
+1044,US,United States,Yucaipa,53921,California,2021-10-02
+1045,US,United States,Brunswick,53914,Georgia,2021-10-02
+1046,US,United States,Williamsport,53861,Pennsylvania,2021-10-02
+1047,US,United States,Elyria,53757,Ohio,2021-10-02
+1048,US,United States,Leesburg,53727,Virginia,2021-10-02
+1049,US,United States,Mount Prospect,53719,Illinois,2021-10-02
+1050,US,United States,Pinellas Park,53637,Florida,2021-10-02
+1051,US,United States,Bellevue,53544,Nebraska,2021-10-02
+1052,US,United States,West Sacramento,53519,California,2021-10-02
+1053,US,United States,Apopka,53447,Florida,2021-10-02
+1054,US,United States,Lewiston,53384,Idaho,2021-10-02
+1055,US,United States,Grand Island,53296,Nebraska,2021-10-02
+1056,US,United States,Palm Desert,53275,California,2021-10-02
+1057,US,United States,Milford city ,53195,Connecticut,2021-10-02
+1058,US,United States,Watertown,53163,New York,2021-10-02
+1059,US,United States,Little Elm,53126,Texas,2021-10-02
+1060,US,United States,Chambersburg,53083,Pennsylvania,2021-10-02
+1061,US,United States,Revere,53073,Massachusetts,2021-10-02
+1062,US,United States,Peabody,53070,Massachusetts,2021-10-02
+1063,US,United States,Wylie,53067,Texas,2021-10-02
+1064,US,United States,Beaufort,53051,South Carolina,2021-10-02
+1065,US,United States,Aspen Hill,53049,Maryland,2021-10-02
+1066,US,United States,DeSoto,52988,Texas,2021-10-02
+1067,US,United States,Helena,52936,Montana,2021-10-02
+1068,US,United States,Edina,52857,Minnesota,2021-10-02
+1069,US,United States,Wheaton,52745,Illinois,2021-10-02
+1070,MY,Malaysia,Kota Tinggi,52743,Pantai Remis,2021-10-02
+1071,US,United States,West New York,52723,New Jersey,2021-10-02
+1072,US,United States,Hoboken,52677,New Jersey,2021-10-02
+1073,US,United States,Lacey,52592,Washington,2021-10-02
+1074,US,United States,Summerville,52549,South Carolina,2021-10-02
+1075,US,United States,Oak Park,52381,Illinois,2021-10-02
+1076,US,United States,Maricopa,52127,Arizona,2021-10-02
+1077,US,United States,Lompoc,52020,California,2021-10-02
+1078,US,United States,Kentwood,51898,Michigan,2021-10-02
+1079,US,United States,Levittown,51818,Pennsylvania,2021-10-02
+1080,US,United States,Sierra Vista,51731,Arizona,2021-10-02
+1081,US,United States,Levittown,51634,New York,2021-10-02
+1082,US,United States,Madison,51593,Alabama,2021-10-02
+1083,US,United States,Smyrna,51586,Tennessee,2021-10-02
+1084,US,United States,Glendora,51544,California,2021-10-02
+1085,US,United States,Burien,51500,Washington,2021-10-02
+1086,US,United States,Perth Amboy,51390,New Jersey,2021-10-02
+1087,US,United States,Herriman,51348,Utah,2021-10-02
+1088,US,United States,Farmington,51309,New Mexico,2021-10-02
+1089,US,United States,New Bern,51308,North Carolina,2021-10-02
+1090,US,United States,Placentia,51233,California,2021-10-02
+1091,US,United States,Hinesville,51206,Georgia,2021-10-02
+1092,US,United States,Beaumont,51063,California,2021-10-02
+1093,US,United States,Collierville,51040,Tennessee,2021-10-02
+1094,US,United States,West Lafayette,50996,Indiana,2021-10-02
+1095,US,United States,Florissant,50952,Missouri,2021-10-02
+1096,US,United States,Hoffman Estates,50932,Illinois,2021-10-02
+1097,US,United States,Queen Creek,50890,Arizona,2021-10-02
+1098,US,United States,Aliso Viejo,50887,California,2021-10-02
+1099,US,United States,Kannapolis,50841,North Carolina,2021-10-02
+1100,MY,Malaysia,Pontian Kechil,50836,Tanjung Malim,2021-10-02
+1101,US,United States,Methuen Town,50706,Massachusetts,2021-10-02
+1102,US,United States,Sahuarita,50616,Arizona,2021-10-02
+1103,US,United States,Traverse City,50522,Michigan,2021-10-02
+1104,US,United States,Severn,50496,Maryland,2021-10-02
+1105,US,United States,Catalina Foothills,50454,Arizona,2021-10-02
+1106,US,United States,Galveston,50446,Texas,2021-10-02
+1107,US,United States,Country Club,50431,Florida,2021-10-02
+1108,US,United States,Cookeville,50408,Tennessee,2021-10-02
+1109,US,United States,Mishawaka,50363,Indiana,2021-10-02
+1110,US,United States,Rowland Heights,50347,California,2021-10-02
+1111,US,United States,Plainfield,50317,New Jersey,2021-10-02
+1112,US,United States,Bullhead City,50309,Arizona,2021-10-02
+1113,US,United States,Stillwater,50299,Oklahoma,2021-10-02
+1114,US,United States,Forney,50251,Texas,2021-10-02
+1115,US,United States,Wheaton,50229,Maryland,2021-10-02
+1116,MY,Malaysia,Putrajaya,50000,Bagan Serai,2021-10-02

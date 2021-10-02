@@ -1,0 +1,70 @@
+,country_code,country_name,area,population,prefecture
+0,MY,Malaysia,Donggongon,71585,Mentakab
+1,MY,Malaysia,Kangar,63869,Raub
+2,MY,Malaysia,Perai,65301,Jerantut
+3,MY,Malaysia,Kampong Baharu Balakong,69302,Pekan
+4,MY,Malaysia,Segamat,69816,Kuala Lipis
+5,MY,Malaysia,Taman Senai,73176,Bandar Jengka
+6,MY,Malaysia,Semenyih,92491,Bukit Tinggi
+7,MY,Malaysia,Ulu Tiram,75350,Ipoh
+8,MY,Malaysia,Keningau,77650,Taiping
+9,MY,Malaysia,Putatan,78340,Sitiawan
+10,MY,Malaysia,Cukai,82425,Simpang Empat
+11,MY,Malaysia,Port Dickson,89198,Teluk Intan
+12,MY,Malaysia,Kulai,63762,Batu Gajah
+13,MY,Malaysia,Victoria,73653,Lumut
+14,MY,Malaysia,Jitra,63489,Kampung Koh
+15,MY,Malaysia,Batu Gajah,46183,Kuala Kangsar
+16,MY,Malaysia,Semporna,62641,Sungai Siput Utara
+17,MY,Malaysia,Lahad Datu,105622,Tapah
+18,MY,Malaysia,Bedong,47585,Bidor
+19,MY,Malaysia,Banting,48240,Parit Buntar
+20,MY,Malaysia,Bentong Town,49213,Ayer Tawar
+21,MY,Malaysia,Putrajaya,50000,Bagan Serai
+22,MY,Malaysia,Pontian Kechil,50836,Tanjung Malim
+23,MY,Malaysia,Teluk Intan,63353,Lawan Kuda Baharu
+24,MY,Malaysia,Kota Tinggi,52743,Pantai Remis
+25,MY,Malaysia,Kampung Bukit Baharu,55656,Kampar
+26,MY,Malaysia,Kuala Selangor,55887,Kangar
+27,MY,Malaysia,Simpang Empat,58004,Kuala Perlis
+28,MY,Malaysia,Kampong Dungun,58674,Bukit Mertajam
+29,MY,Malaysia,Temerluh,59916,Georgetown
+30,MY,Malaysia,Putra Heights,60000,Sungai Ara
+31,MY,Malaysia,Bandar Labuan,54752,Gelugor
+32,MY,Malaysia,Butterworth,107591,Ayer Itam
+33,MY,Malaysia,Sungai Petani,228843,Butterworth
+34,MY,Malaysia,Muar,127897,Perai
+35,MY,Malaysia,Seremban,372917,Nibong Tebal
+36,MY,Malaysia,Sandakan,392288,Permatang Kucing
+37,MY,Malaysia,Kota Kinabalu,457326,Tanjung Tokong
+38,MY,Malaysia,Shah Alam,481654,Kepala Batas
+39,MY,Malaysia,Petaling Jaya,520698,Tanjung Bungah
+40,MY,Malaysia,Kuching,570407,Juru
+41,MY,Malaysia,Kuantan,366229,Kota Kinabalu
+42,MY,Malaysia,Ipoh,673318,Sandakan
+43,MY,Malaysia,Johor Bahru,802489,Tawau
+44,MY,Malaysia,Kampung Baru Subang,833571,Lahad Datu
+45,MY,Malaysia,Klang,879867,Keningau
+46,MY,Malaysia,Kuala Lumpur,1453975,Putatan
+47,MY,Malaysia,Kota Bharu,1459994,Donggongon
+48,MY,Malaysia,Mentekab,42171,Semporna
+49,MY,Malaysia,Subang Jaya,708296,Kudat
+50,MY,Malaysia,Rawang,120447,Kunak
+51,MY,Malaysia,Tawau,306462,Papar
+52,MY,Malaysia,Kuala Terengganu,285065,Ranau
+53,MY,Malaysia,Tasek Glugor,135786,Beaufort
+54,MY,Malaysia,Kampung Sungai Ara,140849,Kinarut
+55,MY,Malaysia,Kampung Pasir Gudang Baru,145639,Kota Belud
+56,MY,Malaysia,Bintulu,151617,Kuching
+57,MY,Malaysia,Batu Pahat,156236,Miri
+58,MY,Malaysia,Skudai,159733,Sibu
+59,MY,Malaysia,George Town,300000,Bintulu
+60,MY,Malaysia,Kluang,169828,Limbang
+61,MY,Malaysia,Malacca,180671,Sarikei
+62,MY,Malaysia,Sibu,198239,Sri Aman
+63,MY,Malaysia,Sepang,212050,Kapit
+64,MY,Malaysia,Alor Setar,217368,Batu Delapan Bazaar
+65,MY,Malaysia,Taiping,217647,Kota Samarahan
+66,MY,Malaysia,Miri,228212,Subang Jaya
+67,MY,Malaysia,Kulim,170889,Klang
+68,MY,Malaysia,Nibong Tebal,40072,Ampang Jaya
